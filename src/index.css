@@ -1,5 +1,12 @@
 @import "@fortawesome/fontawesome-free/css/all.min.css";
 
+:root {
+  --primary-yellow: #f4ce14;
+  --sec-g: #45474b;
+  --third-black: #141414;
+  --f:rgb(193, 191, 191)
+}
+
 * {
   margin: 0;
   padding: 0;
